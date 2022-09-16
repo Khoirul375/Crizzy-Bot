@@ -10,30 +10,30 @@ global.Api = {
 global.ApiKey = 'coderevolution' //JIKA INGIN MENDAPATKAN KOMISI DAFTAR DI HTTPS://AMPIBISMM.MY.ID UNTUK MENDAPATKAN APIKEY!
 
 global.smm = {
-  nomor : '6283102650464',
-  atasnama : 'Ahmad Nur Fadhil'
+  nomor : '62895425185522',
+  atasnama : 'Irull Gansss'
 }
 
 // Other
-global.owner = ['6283102650464',"6282135724604"]
-global.premium = ['6283102650464']
+global.owner = ['62895425185522',"62895425185522"]
+global.premium = ['62895425185522']
 global.sponsor = 'no sponsors in:('
-global.packname = 'Crizzy-Bot'
-global.footer = '© 2022 Fadhil Graphy'
-global.author = 'Owner : Fadhil Graphy\nIg1 : @fdhlgrphy\nIg2 : @nr.fdhl__'
+global.packname = 'Condok-Kontol-Bot'
+global.footer = '© 2022 Irull Ganss'
+global.author = 'Owner : Irull Ganss\nIg1 : @irulgans\nIg2 : @nr.gans__'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.act = {
-		wait: 'please wait a moment, processing data...',
-		den:'*Sorry You Not Register Yet...*\n\n*.reg* <name>\n*To Regis/Login*',
-		proc:'Loading Please Wait..',
-		error:'Error :(',
-		success:'Success bang!',
-		repiar:'This Feature Maintace!',
+		wait: 'Sabar ya kontol...',
+		den:'*Daftar dulu cill...*\n\n*.reg* <name>\n*To Regis/Login*',
+		proc:'Loanjing tunggu dulu..',
+		error:'Error kontol :(',
+		success:'Success tol kontol!',
+		repiar:'Ketipu Eaaa!',
 		botadm:'Jadiin gw admin dulu!',
 		admin:'Khusus admin woi!',
 		done:'Done!',
-		gc:'Only Group Allowed',
-		owner:'Only Owner Allowed'
+		gc:'Khusus grup tolol',
+		owner:'Khusus owner ya dek'
 }
 
 global.thumb = fs.readFileSync('./lib/crizzy.jpg')
